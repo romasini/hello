@@ -1,2 +1,2 @@
-Новый проект
-Другая строка
+hello, git rebase
+hello, squash
